@@ -1,5 +1,6 @@
 package infodebit.rest.client.auth;
 
+import okhttp3.*;
 import org.apache.oltu.oauth2.client.HttpClient;
 import org.apache.oltu.oauth2.client.request.OAuthClientRequest;
 import org.apache.oltu.oauth2.client.response.OAuthClientResponse;
