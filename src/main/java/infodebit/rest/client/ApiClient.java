@@ -17,6 +17,7 @@ import infodebit.rest.client.auth.ApiKeyAuth;
 import infodebit.rest.client.auth.Authentication;
 import infodebit.rest.client.auth.HttpBasicAuth;
 import infodebit.rest.client.auth.OAuth;
+import okhttp3.*;
 import okhttp3.internal.http.HttpMethod;
 import okhttp3.internal.tls.OkHostnameVerifier;
 import okhttp3.logging.HttpLoggingInterceptor;
